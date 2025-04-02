@@ -1,3 +1,4 @@
+(GoodByeSyntax)[https://github.com/GoodByeSyntax/GBS]
 # ByteLightProject:
 ByteLightProject is a module that adds functions...
 
