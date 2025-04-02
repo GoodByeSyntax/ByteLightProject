@@ -1,3 +1,7 @@
+#THIS PROJECT IS ABONDENED MOVE TO **[https://github.com/GoodByeSyntax/GBS](GoodByeSyntax)**
+
+
+
 # ByteLightProject:
 ByteLightProject is a module that adds functions...
 
